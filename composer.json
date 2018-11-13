@@ -1,0 +1,20 @@
+{
+    "name": "phapper/phapper",
+    "description": "Phapper composer package",
+    "type": "plibrary",
+    "require": {
+    },
+    "require-dev": {
+    },
+    "license": "Not defined yet. Private usage only",
+    "authors": [
+        {
+            "name": "rotorcowboy",
+            "email": ""
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
